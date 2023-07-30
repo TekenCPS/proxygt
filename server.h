@@ -34,7 +34,7 @@ class server {
     int m_port = 17198;
     std::string serverz = m_server;
     int portz = m_port;
-    int m_proxyport = 17191;
+    int m_proxyport = 17091;
     std::string ipserver = "127.0.0.1";
     std::string create = "0.0.0.0";
 
